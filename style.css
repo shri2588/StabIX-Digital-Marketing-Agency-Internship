@@ -1,0 +1,442 @@
+.backgroundimg{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(assets/landing.jpg);
+   
+    color: #fff;
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+   
+}
+.h2, h2 {
+    font-size: 2rem;
+    padding-top: 22px;
+}
+.newbox{
+    margin-top: -80px;
+    margin-left: 170px;
+}
+.entdy {
+    font-size: 16px;
+    margin-top: 37px;
+}
+.mk{
+    margin-top: 30px;
+}
+.second {
+    margin-top: 13px;
+    margin-left: 465px;
+    margin-bottom: -9px;
+    margin-top: -57px;
+    margin-bottom: 2rem;
+    
+}
+
+.attain
+{
+    font-size: 48px;
+    color: rgb(255, 179, 0);
+}
+
+.yourttain
+{
+    font-size: 24px;
+    color: white;
+}
+
+.get-btn
+{
+    height: 45px;
+    width: 175px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.boxedit
+{
+    position: relative;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    color: rgb(255, 179, 0);
+    margin-top: 80px;
+}
+
+#kk
+{
+    color: rgb(18, 60, 105);
+    font-size: 20px;
+}
+
+.applybn
+{
+    color: rgb(255, 179, 0);
+    font-weight: 500px;
+    border-color:rgb(255, 179, 0);
+    background-color: white;
+    font-weight: 500px;
+}
+
+#studentproject
+{
+    color: #123c69;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+.goto
+{
+    font-size: 1.5em;
+    color: #ffffff;
+}
+
+.getbtn
+{
+    background-color: rgb(18, 60, 105);
+    border-color: rgb(18, 60, 105);
+    color: #ffffff;
+    height: 45px;
+    width: 175px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+input
+{
+    margin-left: 10px;
+}
+
+.headingss
+{
+    color: rgb(18, 60, 105);
+    font-size: 1.5rem;
+}
+
+.logos
+{
+    width: 35px;
+    height: 35px;
+}
+.newbatch
+{
+    background-color: #ffc107;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 0.5em
+}
+
+#newbatch-p
+{
+    margin-top: 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#firstpart
+{
+    font-size: 48px;
+    color: #123c69;
+    margin-bottom: 0;
+}
+
+#seconpart
+{
+    font-size: 24px;
+    color: grey;
+}
+
+#thirdpart
+{
+    margin-top: 0;
+    margin-bottom: 1em;  
+}
+
+#fourthpart
+{
+margin-top: 30%;
+}
+
+#nextwho
+{
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 400;
+    color: rgb(18, 60, 105);
+    text-align: center; 
+}
+
+#whonew
+{
+    border: 4px solid #123c69;
+    width: 6rem;
+    margin-bottom: 60px;
+}
+
+.blockfirst
+{
+    font-size: 24px;
+    padding-top: 1rem;
+    text-align: left;
+}
+
+#help-text-part
+{
+    color: rgb(18, 60, 105);
+    font-size: 2rem;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+#help-hr-part
+{
+    border: 4px solid rgb(18, 60, 105);
+    width: 6rem;
+    margin-bottom: 60px;
+}
+
+#help-text-part-2
+{
+    width: 90%;
+    text-align: center;
+    margin: -48px auto auto;
+    font-size: 16px;
+}
+
+#svg-pic
+{
+    width: 120px;
+}
+
+.svg
+{
+  justify-content: center;
+}
+
+.applybtn
+{
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.appbtnare
+{
+    margin-top: 100px;
+  
+}
+
+#corsesec
+{
+    font-size: 32px;
+    color: #123c69;
+}
+
+
+#coursethird
+{
+    font-size: 16px;
+    color: grey;
+}
+
+#side-btn-text-1
+{
+    margin: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    color:grey
+}
+
+#side-btn-text-2
+{
+    margin: 0px;
+    font-size: 16px;
+    color:grey
+}
+
+
+.paymentsec
+{
+    background-image: linear-gradient(#014c7a, #0090cc);
+}
+
+#paymentbtn
+{
+    color:white;
+    font-size: 2em;
+    text-align: center;
+}
+
+#paymentsecond
+{
+    color:white;
+    font-size: 1.17em;
+    text-align: center;
+}
+
+#paymentbtnthird
+{
+    color:white;
+    font-size: 26px;
+    text-decoration: line-through;
+    text-align: center;
+    text-decoration-color: red;
+}
+
+.paymentsg-1
+{
+    font-size: 50px;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 65px;
+}
+
+.paymentsg-2
+{
+    font-size: 50px;
+    color: white;
+    margin-left: 65px;
+    margin-bottom: 10px;
+}
+
+#paymentopt
+{
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+}
+
+#pyamentsec-1
+{
+    font-weight: 500;
+    font-size: 1.17em;
+    color: rgb(18, 60, 105);
+}
+
+#paymentsec-2
+{
+    font-weight: 500;
+    font-size: 2em;
+    color: rgb(18, 60, 105);
+}
+
+#paymentblespan
+{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#newknown
+{
+    color: #123c69;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+}
+
+#loksnew
+{
+    width:100px;
+}
+
+#lookingfront
+{
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+
+.looking-area
+{
+    border: 1px solid grey;
+}
+
+.readnew 
+{
+    color: #123c69;
+
+    font-size: 16px;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+}
+
+.primg
+{
+    filter: grayscale(1) brightness(70%) contrast(400%);
+}
+
+.prebx
+{
+    margin-right: 90px;
+    height: auto;
+}
+
+.pkbox
+{
+    padding: 30px;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(224, 167, 32);
+    border-radius: 10px;
+}
+
+#footnew
+{
+    color:rgb(18, 60, 105);
+    font-size: 14px;
+}
+
+.footer
+{
+    background-color:  rgb(227, 227, 227);;
+    padding: 5%;
+}
+
+.stft
+{
+    position: relative;
+}
+
+.stftr
+{
+  position:relative;
+}
+
+.stft
+{
+    position:absolute;
+    top:-30px;
+    left:10px;
+    right:10px;
+}
+
+.ftc-1
+{
+    margin-top: 50px;
+}
+
+.ftc-2
+{
+    margin-top: 50px;
+}
+
+.ftc-3
+{
+    margin-top: 50px;
+}
+
+
